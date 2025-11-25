@@ -1,0 +1,9 @@
+h1 {
+  background-color: brown;
+  width: 100px;
+  display: block;
+}
+p {
+  background-color: aqua;
+  font-size: 30px;
+}
